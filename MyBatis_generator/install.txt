@@ -1,0 +1,2 @@
+eclipse market place安装插件地址：
+https://marketplace.eclipse.org/content/mybatis-generator
